@@ -1,0 +1,8 @@
+2022-02-23 15:43:45,742 mongodb - INFO - Mongo DB connection establiblished successfully
+2022-02-23 15:43:45,750 mongodb - INFO - Connection to database established
+2022-02-23 15:43:45,750 mongodb - INFO - Starting to read given csv file
+2022-02-23 15:43:45,824 mongodb - INFO - Input csv file read successfully
+2022-02-23 15:43:48,053 mongodb - INFO - 10721 records inserted successfully
+2022-02-23 15:43:49,679 mongodb - INFO - Read the table data successfully
+2022-02-23 15:43:49,710 mongodb - INFO -  Records updated successfully
+2022-02-23 15:43:49,741 mongodb - INFO - Records deleted successfully
